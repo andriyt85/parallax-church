@@ -1,0 +1,27 @@
+html, body {
+    font-family: Arial;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    color: #575753;
+    height: 100%;
+    width: 100%;
+}
+
+.contentwrap {
+    position: relative;
+    padding: 120px 20%;
+    z-index: 5;
+    background: white;
+    text-align: center;
+}
+
+.photowrap {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.photowrap img {
+    width: 100%;
+}
