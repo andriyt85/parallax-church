@@ -1,10 +1,4 @@
-/*  This jquery plugin adds parallax (background) scrolling to your website. Instead of scrolling the elements itself it will copy them and fix them on the background. 
-    Using this method we can achieve a way higher performance and won't have any flickering when scrolling.
-    Based on the Spotify website.
-    
-    Copyright © 2014 - Dirk Groenen
-    Version 1.0
-*/
+
 (function($){
     $.extend({
         parallax: function(useroptions){
